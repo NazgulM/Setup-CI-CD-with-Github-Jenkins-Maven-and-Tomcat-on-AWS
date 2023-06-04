@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> DevOps Engineer from June</h1>
+   <h1> DevOps Engineer oriJ</h1>
 
   
 </form>
